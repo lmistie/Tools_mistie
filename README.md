@@ -17,9 +17,9 @@
     -l [threads]	Limit threads to given number. Default: 10
     -p [port]	        Specify remote port
     -P [password]	Use single password attempt
-    -t [target]	    Attempt connections to this server
-    -u [user]	    Attempt connection using this username
-    -v		-v (Show attempts) -vv (Show debugging)
+    -t [target]	        Attempt connections to this server
+    -u [user]	        Attempt connection using this username
+    -v		    -v (Show attempts) -vv (Show debugging)
     -w [wordlist]	Use this wordlist. Defaults to wordlist.txt
   
 ➜./sshcrack -l 15 127.0.0.1 -v

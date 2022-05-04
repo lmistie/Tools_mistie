@@ -2,6 +2,13 @@
 
 ## №1 sshcrack
 
+Сборка проекта
+```
+➜make // собираем проект
+➜make clean // очистить проект от файлов *.o *.out и тд
+```
+
+
 ```
 ➜./sshcrack
     Usage: ./sshcrack [OPTIONS]

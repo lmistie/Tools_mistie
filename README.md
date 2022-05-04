@@ -15,7 +15,7 @@
     -c [payload]	Execute payload on remote server once logged in
     -h		        Display this help
     -l [threads]	Limit threads to given number. Default: 10
-    -p [port]	    Specify remote port
+    -p [port]	        Specify remote port
     -P [password]	Use single password attempt
     -t [target]	    Attempt connections to this server
     -u [user]	    Attempt connection using this username
